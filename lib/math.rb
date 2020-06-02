@@ -4,11 +4,12 @@ puts sum
 end
 
 def subtraction(num1, num2)
-
+subtract = num1 - num2
+puts subtract
 end
 
 def division(num1, num2)
-
+divide = num1 / num2
 end
 
 def multiplication(num1, num2)
