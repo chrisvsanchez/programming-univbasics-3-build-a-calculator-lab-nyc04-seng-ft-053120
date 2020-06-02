@@ -5,24 +5,24 @@ end
 
 def subtraction(num1, num2)
 subtract = num1 - num2
-puts subtract
+p subtract
 end
 
 def division(num1, num2)
 divide = num1 / num2
-puts divide
+p divide
 end
 
 def multiplication(num1, num2)
 multiply = num1 * num2
-puts multiply
+p multiply
 end
 
 def modulo(num1, num2)
 modulo = num1 % num2
-puts modulo
+p modulo
 end
 
 def square_root(num)
-  puts Math.square_root(num)
+  p Math.square_root(num)
 end
