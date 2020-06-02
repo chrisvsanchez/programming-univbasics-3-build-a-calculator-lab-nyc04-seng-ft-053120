@@ -24,5 +24,6 @@ p modulo
 end
 
 def square_root(num)
-  p Math.square_root(num)
+  squared = Math.square_root(num)
+  p squared
 end
